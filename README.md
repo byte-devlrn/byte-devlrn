@@ -7,4 +7,4 @@
 - How to reach me on discord? : dimi_designs
 
 
-<img src="/github-metrics.svg" alt="Metrics" width="60%">
+<img src="/github-metrics.png" alt="Metrics" width="60%">
