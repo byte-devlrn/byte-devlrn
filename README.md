@@ -11,17 +11,17 @@
 
 ---
 
-## 🧠 Languages I work with
-**LUA • JavaScript • C# • C++ • Assembly • R'n'G • Python • Bash**
+## Languages I work with
+**LUA • JavaScript • C# • C++ • Assembly • Python • Bash**
 
 ---
 
-## 📈 GitHub Metrics
+## Metrics
 <img src="github-metrics.png" alt="GitHub Metrics" />
 
 ---
 
-## 📊 GitHub Stats
+## Stats
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=byte_devlrn&show_icons=true&theme=github_dark&icon_color=007ACC&title_color=007ACC" />
@@ -32,8 +32,6 @@
 
 ---
 
-## 🔗 Socials
-- **Discord:** `dimi_designs`  
-- **GitHub:** https://github.com/byte_devlrn
-
+## Socials
+- **Discord:** `dimi_designs`
 ---
