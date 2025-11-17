@@ -1,43 +1,39 @@
-<h1 align="center">Hi there, I'm Byte 👋</h1>
+<!-- VS Code style header -->
+<h1 align="center">
+  <img src="https://img.shields.io/badge/Byte-Coding%20in%20VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</h1>
 
-### idrk readme ig?
+### Hey, I'm Byte.
 
-- I've learnt **LUA, JS, C#, C++, Assembly, R'n'G, Python, Bash** and a few others  
-- If you want any help with errors/bugs in any language, send me a DM — my DMs are always open  
-- **Discord:** dimi_designs
+- I’ve learnt **LUA, JS, C#, C++, Assembly, R'n'G, Python, Bash**, and a few more.  
+- If you need help with bugs/errors in any language, DM me — I always reply.  
+- **Discord:** `dimi_designs`
 
 ---
 
-## 🚀 Languages I know
-> (Not everything I know, just the main ones)
-
+## 🧠 Languages I work with
 **LUA • JavaScript • C# • C++ • Assembly • R'n'G • Python • Bash**
 
 ---
 
 ## 📈 GitHub Metrics
-<img src="github-metrics.png" alt="GitHub Metrics">
+<img src="github-metrics.png" alt="GitHub Metrics" />
 
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Byte&show_icons=true&theme=tokyonight&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=byte_devlrn&show_icons=true&theme=github_dark&icon_color=007ACC&title_color=007ACC" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byte&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byte_devlrn&layout=compact&theme=github_dark&title_color=007ACC" />
 
 </div>
 
 ---
 
-## 💬 Connect with me
-
-- **Discord:** `dimi_designs`
-- **GitHub:** [Byte](https://github.com/Byte)
+## 🔗 Socials
+- **Discord:** `dimi_designs`  
+- **GitHub:** https://github.com/byte_devlrn
 
 ---
-
-### ⚡ Random Quote
-> *"Just keep building – everything else follows."*
