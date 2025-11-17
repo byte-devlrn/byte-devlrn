@@ -24,9 +24,9 @@
 ## Stats
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=byte_devlrn&show_icons=true&theme=github_dark&icon_color=007ACC&title_color=007ACC" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=byte-devlrn&show_icons=true&theme=github_dark&icon_color=007ACC&title_color=007ACC" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byte_devlrn&layout=compact&theme=github_dark&title_color=007ACC" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byte-devlrn&layout=compact&theme=github_dark&title_color=007ACC" />
 
 </div>
 
